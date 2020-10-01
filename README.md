@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Ruby! she/her please. 
+My name's Ruby! they/them please. 
 
 Front end / full stack developer! JS / TS / Python / C# plus some more.
 
